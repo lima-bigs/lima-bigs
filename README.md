@@ -2,7 +2,7 @@
 <h4 align="center">Sou um desenvolvedor Full Stack que vem de uma transição de carreira de Engenheiro Ambiental.</h4>
 </br>
 </br>
-<h3 align="left">Conecte comigo no Linkedin:</h3>
+<h3 align="left">Conecte-se comigo no Linkedin:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/carlos-alberto-souza-lima-junior/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/carlos-alberto-souza-lima-junior/" height="30" width="40" /></a>
 </p>
